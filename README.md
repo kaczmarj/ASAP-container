@@ -1,6 +1,6 @@
 # ASAP container
 
-[![Docker](https://img.shields.io/docker/pulls/kaczmarj/asap?label=DockerHub&style=flat)](https://hub.docker.com/r/eaudeweb/scratch/builds)
+[![Docker](https://img.shields.io/docker/pulls/kaczmarj/asap?label=DockerHub&style=flat)](https://hub.docker.com/r/kaczmarj/asap)
 
 ```
 docker pull kaczmarj/asap:2.0.0
