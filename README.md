@@ -1,5 +1,17 @@
 # ASAP container
 
+[![Docker](https://img.shields.io/docker/pulls/kaczmarj/asap?label=DockerHub&style=flat)](https://hub.docker.com/r/eaudeweb/scratch/builds)
+
+```
+docker pull kaczmarj/asap:2.0.0
+```
+
+or
+
+```
+singularity pull docker://kaczmarj/asap:2.0.0
+```
+
 Workflow is to build the Docker image and then convert to a Singularity image.
 Singularity tends to play better with graphical interfaces.
 
